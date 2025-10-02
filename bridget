@@ -1,0 +1,15 @@
+name = input()
+nickname = input()
+age = input()
+zodiac = input()
+weight = input()
+height = input()
+
+print(f"Hi! My name is {name} and my friends call me {nickname}. I'm {age} years old and my zodiac sign is {zodiac}. I currently weigh {weight} kg and am {height} cm tall.\n")
+
+color = input()
+song = input()
+movie = input()
+hobby = input()
+
+print(f"Out of all the colors, I tend to favor {color} the most. {song} is one song I currently like and the first movie to come to mind is {movie}. Lastly, one of my hobbies is {hobby}. That's all :)")
